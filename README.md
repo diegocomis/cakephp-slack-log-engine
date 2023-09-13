@@ -15,12 +15,12 @@ The engine uses [Slack for PHP](https://github.com/maknz/slack) and is just thin
 ## Installation
 
 ```
-composer require hiromi2424/cakephp-slack-log-engine
+composer require diegocomis/cakephp-slack-log-engine
 ```
 
 ## Requirements
 
-* CakePHP 3.x
+* CakePHP 4.x
 * PHP 5.5+
 
 ## Usage
