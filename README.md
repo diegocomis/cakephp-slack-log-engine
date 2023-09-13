@@ -20,8 +20,8 @@ composer require diegocomis/cakephp-slack-log-engine
 
 ## Requirementscurl -sS https://getcomposer.org/installer | php
 
-* CakePHP 4.x
-* PHP 7
+* CakePHP 4.1.7
+* PHP 7.2
 
 ## Usage
 
