@@ -18,10 +18,10 @@ The engine uses [Slack for PHP](https://github.com/maknz/slack) and is just thin
 composer require diegocomis/cakephp-slack-log-engine
 ```
 
-## Requirements
+## Requirementscurl -sS https://getcomposer.org/installer | php
 
 * CakePHP 4.x
-* PHP 5.5+
+* PHP 7
 
 ## Usage
 
